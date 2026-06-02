@@ -33,6 +33,7 @@ Formalizar un plan de evolución del pipeline actual para pasar de PoC funcional
 - `BACKEND-API.md` — contratos API y reglas de robustez.
 - `PROCEDURES.md` — estrategia de biblioteca de prompts/procedimientos.
 - `PITCH-INTERNO.md` — guion interno para presentar avance y próximos pasos.
+- `SDD-FRONTEND-LIB-POLICY.md` — encastre SDD de librerías frontend y skills obligatorias.
 
 ## Criterio de éxito
 - Usuario no técnico obtiene resultado útil en menos de 5 minutos.
