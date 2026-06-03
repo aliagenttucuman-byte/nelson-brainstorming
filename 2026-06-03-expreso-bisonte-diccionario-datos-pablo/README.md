@@ -29,6 +29,10 @@ Consolidar y documentar la ingeniería inversa de campos del archivo real `CONTA
   - Traducción de la explicación funcional de Pablo a reglas técnicas
   - Estado de match (implementado/parcial) y próximos cierres v1.1
 
+- `verificacion-e2e-v1-2026-06-03.md`
+  - Prueba end-to-end documentada (clear/upload/run/download)
+  - Resultado validado contra filas de hojas trabajadas de referencia
+
 ## Hallazgos clave (para reunión)
 
 1. CDO trabajada agrega campos operativos: `JUSTIFICACIÓN`, `REFERENTE`, `OBSERVACIÓN`.
