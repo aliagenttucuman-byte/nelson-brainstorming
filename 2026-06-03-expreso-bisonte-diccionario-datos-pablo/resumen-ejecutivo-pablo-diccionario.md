@@ -15,5 +15,6 @@ Generado: 2026-06-03 00:18
 - PF trabajada no es mapeo 1:1 de PF sistema (requiere definición operativa formal).
 
 ## Entregables
-- Diccionario completo: `/home/server/proyectos/excel-merger-poc/docs/diccionario-datos-v1-contado-pablo-ruiz.md`
-- Este resumen: `/home/server/proyectos/excel-merger-poc/docs/resumen-ejecutivo-pablo-diccionario.md`
+- Diccionario completo: `/home/server/brainstorming/2026-06-03-expreso-bisonte-diccionario-datos-pablo/diccionario-datos-v1-contado-pablo-ruiz.md`
+- Este resumen: `/home/server/brainstorming/2026-06-03-expreso-bisonte-diccionario-datos-pablo/resumen-ejecutivo-pablo-diccionario.md`
+- Estrategia ejecutiva: `/home/server/brainstorming/2026-06-03-expreso-bisonte-diccionario-datos-pablo/estrategia-evangelizacion-automatizacion-operativa-v1.md`

@@ -33,6 +33,27 @@ Consolidar y documentar la ingeniería inversa de campos del archivo real `CONTA
   - Prueba end-to-end documentada (clear/upload/run/download)
   - Resultado validado contra filas de hojas trabajadas de referencia
 
+- `estrategia-evangelizacion-automatizacion-operativa-v1.md`
+  - Diagnóstico ejecutivo del caso (conocimiento tácito + carga operativa)
+  - Propuesta en 3 carriles: quick wins, captura de reglas, adopción por niveles
+  - Plan de 2 semanas para conversación con Pablo
+
+- `briefing-reunion-pablo-hoy.md`
+  - Guion ejecutivo de 30 minutos para conversación de hoy
+  - Mensajes clave, decisiones a aprobar y KPIs de seguimiento
+
+- `agenda-y-preguntas-reunion-pablo.md`
+  - Agenda minuto a minuto + preguntas críticas de cierre
+  - Estructura para alinear ownership, reglas PF y fuentes externas
+
+- `minuta-decisiones-reunion-pablo-template.md`
+  - Plantilla lista para completar durante/pos reunión
+  - Tabla de decisiones, riesgos, backlog v1.1 y próximos checkpoints
+
+- `comparativa-pipeline-vs-manual-v1.md`
+  - Comparación de las 2 salidas del pipeline vs las 2 salidas trabajadas a mano
+  - Resultado: coincidencia 1:1 con normalización de formato
+
 ## Hallazgos clave (para reunión)
 
 1. CDO trabajada agrega campos operativos: `JUSTIFICACIÓN`, `REFERENTE`, `OBSERVACIÓN`.
