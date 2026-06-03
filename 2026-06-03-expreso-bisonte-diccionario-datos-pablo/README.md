@@ -21,6 +21,14 @@ Consolidar y documentar la ingeniería inversa de campos del archivo real `CONTA
   - Relevamiento técnico de diferencias de campos
   - Identificación de campos agregados operativos
 
+- `matriz-reglas-transformacion-v1.md`
+  - Matriz campo a campo: DIRECTO / MANUAL / NO EXPUESTO
+  - Match por `nro` y brechas por universo
+
+- `alineacion-pablo-reglas-operativas-v1.md`
+  - Traducción de la explicación funcional de Pablo a reglas técnicas
+  - Estado de match (implementado/parcial) y próximos cierres v1.1
+
 ## Hallazgos clave (para reunión)
 
 1. CDO trabajada agrega campos operativos: `JUSTIFICACIÓN`, `REFERENTE`, `OBSERVACIÓN`.
