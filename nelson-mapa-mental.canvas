@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    {
+      "id": "centro0000000001",
+      "type": "text",
+      "x": 400,
+      "y": 300,
+      "width": 280,
+      "height": 120,
+      "text": "# Equipo Nelson\nTony Stark + Agentes IA",
+      "color": "1"
+    },
+    {
+      "id": "metaorch00000002",
+      "type": "text",
+      "x": 100,
+      "y": 100,
+      "width": 220,
+      "height": 100,
+      "text": "## Meta-Orquestador\n- FastAPI + SQLite\n- Timeline persistente\n- Control de subtareas",
+      "color": "4"
+    },
+    {
+      "id": "skills0000000003",
+      "type": "text",
+      "x": 100,
+      "y": 300,
+      "width": 220,
+      "height": 100,
+      "text": "## Skills\n- 40+ skills Nelson\n- Document processing\n- Data viz / histogramas\n- RAG / Qdrant",
+      "color": "5"
+    },
+    {
+      "id": "proyectos0000004",
+      "type": "text",
+      "x": 100,
+      "y": 500,
+      "width": 220,
+      "height": 100,
+      "text": "## Proyectos\n- ForestAI\n- Fleet Optimizer\n- LinkedIn Feed\n- EduPlatform",
+      "color": "3"
+    },
+    {
+      "id": "stack00000000005",
+      "type": "text",
+      "x": 760,
+      "y": 100,
+      "width": 220,
+      "height": 100,
+      "text": "## Stack Tecnológico\n- Python + FastAPI\n- React + Vite\n- Docker + Linux\n- Qdrant / SQLite",
+      "color": "2"
+    },
+    {
+      "id": "agentes000000006",
+      "type": "text",
+      "x": 760,
+      "y": 300,
+      "width": 220,
+      "height": 100,
+      "text": "## Agentes IA\n- Julián (backend)\n- Mercedes (frontend)\n- JARVIS (orquestador)\n- Mocho (?)",
+      "color": "6"
+    },
+    {
+      "id": "demos00000000007",
+      "type": "text",
+      "x": 760,
+      "y": 500,
+      "width": 220,
+      "height": 100,
+      "text": "## Demos & Negocio\n- Cloudflare tunnels\n- Reuniones con Pablo\n- Valuación automática\n- Dashboard PM",
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1meta0000000001",
+      "fromNode": "centro0000000001",
+      "fromSide": "left",
+      "toNode": "metaorch00000002",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "coordina"
+    },
+    {
+      "id": "e1skil0000000002",
+      "fromNode": "centro0000000001",
+      "fromSide": "left",
+      "toNode": "skills0000000003",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "usa"
+    },
+    {
+      "id": "e1proj0000000003",
+      "fromNode": "centro0000000001",
+      "fromSide": "left",
+      "toNode": "proyectos0000004",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "ejecuta"
+    },
+    {
+      "id": "e1stac0000000004",
+      "fromNode": "centro0000000001",
+      "fromSide": "right",
+      "toNode": "stack00000000005",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "construye sobre"
+    },
+    {
+      "id": "e1agen0000000005",
+      "fromNode": "centro0000000001",
+      "fromSide": "right",
+      "toNode": "agentes000000006",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "compuesto por"
+    },
+    {
+      "id": "e1demo0000000006",
+      "fromNode": "centro0000000001",
+      "fromSide": "right",
+      "toNode": "demos00000000007",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "presenta"
+    }
+  ]
+}
